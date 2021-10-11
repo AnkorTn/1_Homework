@@ -1,2 +1,2 @@
 # 1_Homework
-Homework code for the Program class.
+Homework code for CS125: Program Design.
